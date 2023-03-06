@@ -1,0 +1,2 @@
+# Pagination in AppWebsocket JSON APIs Example C++ Project
+See [Pagination in AppWebsocket JSON APIs article in the innovaphone SDK documentation](https://sdk.innovaphone.com/13r3/doc/tutorials/PaginationJsonApi.htm) for more information
