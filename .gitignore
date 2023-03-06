@@ -1,0 +1,15 @@
+.idea
+.vs 
+nbproject
+Debug
+*.vcxproj.user
+sdk
+exe
+web1
+doc
+obj
+build.txt
+bin
+arm-debug
+arm64-debug
+x86_64-debug
